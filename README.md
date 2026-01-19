@@ -22,7 +22,30 @@ This portfolio is designed to act as my digital resume and proof of work for rec
 - HTML5  
 - CSS3  
 - GitHub  
-- GitHu
+- GitHub Pages (for deployment)
+
+---
+
+## ✨ Features
+
+- Aesthetic pink-themed user interface  
+- About Me section  
+- Skills showcase  
+- Project description  
+- Contact details with social links  
+- Fully responsive design  
+- Live deployment using GitHub Pages  
+
+---
+
+## 🌐 Live Website
+
+👉 **View Portfolio:**  
+https://aheleebag.github.io/FUTURE_FS_01/
+
+---
+
+## 📁 Project Structure
 
 FUTURE_FS_01
 │── index.html
@@ -39,7 +62,7 @@ FUTURE_FS_01
 
 - This project is built using core web technologies.
 - The design focuses on clarity, aesthetics, and usability.
-- The website is continuously improvable as I gain more skills.
+- The website can be enhanced further as I learn advanced frameworks.
 
 ---
 
@@ -51,4 +74,4 @@ FUTURE_FS_01
 
 ---
 
-✨ Built with 💗 as part of my learning journey at Future Interns.
+✨ Built with 💗 as part of my learning journey at **Future Interns**.
