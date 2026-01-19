@@ -52,8 +52,8 @@ FUTURE_FS_01
 │── style.css
 │── README.md
 │── images/
-│ ├── profile.jpg
-│ ├── coding.jpg
+│── profile.jpg
+│── coding.jpg
 
 
 ---
